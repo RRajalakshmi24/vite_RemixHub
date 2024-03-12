@@ -29,7 +29,7 @@ const SearchBar = () => {
       />
       <button
         type="submit"
-        className="p-2 bg-blue-300 text-white rounded ml-2"
+        className="p-2 bg-blue-700 text-white rounded ml-2"
       >
         Search
       </button>
